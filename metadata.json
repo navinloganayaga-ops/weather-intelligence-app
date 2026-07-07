@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A clean, responsive client-side weather app with geocoding, 7-day forecast, and weather intelligence-based planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
